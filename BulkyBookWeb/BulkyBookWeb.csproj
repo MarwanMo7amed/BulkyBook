@@ -5,7 +5,5 @@
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
   </PropertyGroup>
-	<ImportGroup>
-		<Pack
-	</ImportGroup>
+
 </Project>
